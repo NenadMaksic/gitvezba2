@@ -5,5 +5,5 @@ int main()
   printf("Hello world 2");
   test
   return 0;
-  ttttt
+  ttt
 }
